@@ -39,4 +39,4 @@ Core build complete — SupportBot, attack logging, and baseline/hardened compar
 
 ---
 
-*Part of a five-project AI security portfolio (fintech + healthtech) built while studying AI security via TryHackMe.*
+*Part of a five-project AI security portfolio (fintech + healthtech) built while studying AI security.*
